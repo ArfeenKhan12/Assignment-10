@@ -1,0 +1,45 @@
+.poem{
+    display: block;
+    text-align: center;
+    background-color: #8a2be2;
+    color: #ffffff;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 25px;
+    
+
+}
+.nav{
+    display: block;
+    
+}
+div{
+    display: block;
+}
+.poem1{
+        font-family:"luckiest guy" ;
+        color: #00ffff;
+}
+
+.poem1:first-letter {
+    color: #adff2f;
+    font-size: 120px;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px
+}
+.para {
+    font-family: 'Poppins';
+    font-weight: bold;
+    color: #008080;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+.para::first-line{
+    color: #a52a2a;
+}
